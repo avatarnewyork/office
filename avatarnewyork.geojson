@@ -3,7 +3,9 @@
   "features": [
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-74.008291, 40.720000]},
-      "properties": {"prop0": "value0"}
+      "properties": {"name": "office",
+      		     "popupContent": "This is our office location!"
+		    }
     }
   ]
 }
