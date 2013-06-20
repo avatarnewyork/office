@@ -1,7 +1,6 @@
 {
-    "type": "Point",
-    "coordinates": [
-        -105.01621,
-        39.57422
-    ]
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "FACILITY_I": 123976.0, "SERVICE_DA": "2007\/03\/26", "CALL_SIGN": "NULL", "CHANNEL": 234.0, "APP_ID": 500243.0, "COUNTRY": "US", "CLASS": "L1", "SERVICE_TY": "FL", "STATE": "GA", "TRANSLATOR": 0.0, "CITY": "SPRINGFIELD" }, "geometry": { "type": "Point", "coordinates": [ -81.299554906610865, 32.354080966941915 ] } }
 }
