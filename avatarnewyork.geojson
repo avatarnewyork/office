@@ -13,7 +13,7 @@
     },
     { "type": "Feature",
       "geometry": {"type": "Point", 
-      "coordinates": [-74.008391, 40.72512]},
+      "coordinates": [-74.008064, 40.719713]},
       "properties": {"Name": "Bubby's",
 		     "marker-size": "medium",
 		     "marker-symbol": "restaurant"
