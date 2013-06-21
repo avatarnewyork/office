@@ -9,7 +9,7 @@
 		     "Phone": "212-361-6100",
 		     "marker-size": "large",
 		     "marker-color": "#4ec6e0",
-		     "marker-symbol": "star-stroked",
+		     "marker-symbol": "star-stroked"
 		    }
     },
     { "type": "Feature",
