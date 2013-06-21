@@ -16,7 +16,7 @@
       "coordinates": [-74.008064, 40.719713]},
       "properties": {"Name": "Bubby's",
 		     "marker-size": "small",
-		     "marker-symbol": "restaurant"
+		     "marker-symbol": "restaurant",
 		     "marker-color": "#333333"
 		    }
     }
