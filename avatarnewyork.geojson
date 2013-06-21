@@ -8,7 +8,8 @@
       		     "Address": "122 Hudson st. 4th fl. New York, NY 10013",
 		     "Phone": "212-361-6100",
 		     "marker-size": "large",
-		     "marker-color": "#4ec6e0"
+		     "marker-color": "#4ec6e0",
+		     "marker-symbol": "star-stroked",
 		    }
     },
     { "type": "Feature",
