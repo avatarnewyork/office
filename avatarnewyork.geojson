@@ -8,12 +8,12 @@
       		     "Address": "122 Hudson st. 4th fl. New York, NY 10013",
 		     "Phone": "212-361-6100",
 		     "marker-size": "large",
-		     "marker-color": "#939597"
+		     "marker-color": "#4ec6e0"
 		    }
     },
     { "type": "Feature",
       "geometry": {"type": "Point", 
-      "coordinates": [-74.008391, 40.72012]},
+      "coordinates": [-74.008391, 40.72512]},
       "properties": {"Name": "Bubby's",
 		     "marker-size": "medium",
 		     "marker-symbol": "restaurant"
