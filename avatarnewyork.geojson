@@ -2,9 +2,13 @@
   "type": "FeatureCollection",
   "features": [
     { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [-74.008291, 40.720000]},
-      "properties": {"name": "office",
-      		     "popupContent": "This is our office location!"
+      "geometry": {"type": "Point", 
+      "coordinates": [-74.008291, 40.720000]},
+      "properties": {"Name": "Avatar New york",
+      		     "Address": "122 Hudson st. 4th fl. New York, NY 10013",
+		     "Phone": "212-361-6100",
+		     "marker-size": "large",
+		     "marker-color": "#ffd"
 		    }
     }
   ]
